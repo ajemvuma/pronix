@@ -8,6 +8,111 @@
     ],
     
 "Wallpapers":[
+        { 
+            "name":"Cold Rocks",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/a.jpeg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Bridge into the night",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/b.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"S9",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/c.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"S9 Mono",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/d.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"S9 in the grass",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/e.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Mate 10 Pro",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/f.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Freaknightset",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/g.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Moon over us",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/h.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Spring is upon us",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/i.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Bluesunset",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/j.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Mono Rocks",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/k.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Lambo accident",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/l.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Leafs on the walk",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/m.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Bulidgreen",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/n.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"S9 Plus Box",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/o.jpg",
+            "downloadable":"true"
+        }
         {
             "name":"Daddy's Champion",
             "author":"Nick Nice",
@@ -216,111 +321,6 @@
             "author":"Nick Nice",
             "collections":"PRO",
             "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/nick-nice-380711-unsplash.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Cold Rocks",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/a.jpeg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Bridge into the night",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/b.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"S9",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/c.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"S9 Mono",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/d.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"S9 in the grass",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/e.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Mate 10 Pro",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/f.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Freaknightset",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/g.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Moon over us",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/h.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Spring is upon us",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/i.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Bluesunset",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/j.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Mono Rocks",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/k.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Lambo accident",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/l.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Leafs on the walk",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/m.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"Bulidgreen",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/n.jpg",
-            "downloadable":"true"
-        },
-        {
-            "name":"S9 Plus Box",
-            "author":"Nick Nice",
-            "collections":"PRO",
-            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/o.jpg",
             "downloadable":"true"
         }
      ]
