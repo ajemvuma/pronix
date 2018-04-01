@@ -8,6 +8,62 @@
     ],
     
 "Wallpapers":[
+       { 
+            "name":"Google Pixel 2 XL",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/07.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Google Pixel 2 XL Back",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/08.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Football Black and White",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/01.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Rose Black and White",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/02.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Football",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/04.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Sunset",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/03.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Play The Game",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/05.jpg",
+            "downloadable":"true"
+       },
+       { 
+            "name":"Rose",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/06.jpg",
+            "downloadable":"true"
+        },
         { 
             "name":"Cold Rocks",
             "author":"Nick Nice",
