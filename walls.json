@@ -8,6 +8,62 @@
     ],
     
 "Wallpapers":[
+      { 
+            "name":"Black and White Raindrops",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/raindrops.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"Raindrops",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/raindropscolor.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"Green Green Grass of Home",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/grassunset.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"Red Rose",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/redroses.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"Black and White Rose",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/rosedark.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"Black and Red Rose",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://github.com/ajemvuma/pronix/blob/master/roseedited.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"High in The Sky",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/sky.jpg",
+            "downloadable":"true"
+      },
+      { 
+            "name":"Let's Hangout",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/klupa.jpg",
+            "downloadable":"true"
+       },
        { 
             "name":"Google Pixel 2 XL",
             "author":"Nick Nice",
