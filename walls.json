@@ -8,6 +8,48 @@
     ],
     
 "Wallpapers":[
+     { 
+            "name":"Tree Brench",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/brench.jpg",
+            "downloadable":"true"
+     },
+     { 
+            "name":"Tree Brench Edited",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/branch%20edited.jpg",
+            "downloadable":"true"
+     },
+     { 
+            "name":"Rose Macro",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/rose%20macro.jpg",
+            "downloadable":"true"
+     },
+     { 
+            "name":"Rose Macro Black and White",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/macro%20rose.jpg",
+            "downloadable":"true"
+     },
+     { 
+            "name":"Window to Heaven",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/windwos.jpg",
+            "downloadable":"true"
+     },
+     { 
+            "name":"Window to Heaven Edited",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/windows%20edited.jpg",
+            "downloadable":"true"
+      },
       { 
             "name":"Black and White Raindrops",
             "author":"Nick Nice",
