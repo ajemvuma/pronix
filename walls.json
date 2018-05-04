@@ -9,6 +9,48 @@
     
 "Wallpapers":[
     { 
+            "name":"flowers",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/aa.jpg",
+            "downloadable":"true"
+    },
+    { 
+            "name":"Yellow Sunflower",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"",
+            "downloadable":"true"
+    },
+    { 
+            "name":"Pink is the colour",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaa.jpg",
+            "downloadable":"true"
+    },
+    { 
+            "name":"Springtomize",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaa.jpg",
+            "downloadable":"true"
+    },
+    { 
+            "name":"Pinkylane",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaaa.jpg",
+            "downloadable":"true"
+    },
+    { 
+            "name":"Branch of love",
+            "author":"Nick Nice",
+            "collections":"PRO",
+            "url":"https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaaaa.jpg",
+            "downloadable":"true"
+    },
+    { 
             "name":"Sky is The Limit",
             "author":"Nick Nice",
             "collections":"PRO",
