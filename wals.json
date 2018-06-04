@@ -1,1 +1,506 @@
-# pronix
+{
+    "Categories": 
+        [
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Technology"
+            }
+        ],
+
+    "Wallpapers":
+        [
+            {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aa.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aa.jpg",
+		"name": "Flowers.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaa.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaa.jpg",
+		"name": "Pink is the color.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaa.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaa.jpg",
+		"name": "Springtomize",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaaa.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaaa.jpg",
+		"name": "Pinkylane.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaaaa.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/aaaaaaaa.jpg",
+		"name": "Lovebranch.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a1.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a1.jpg",
+		"name": "Sky is the limit.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a10.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a10.jpg",
+		"name": "Spring is here.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a11.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a11.jpg",
+		"name": "Rock and Rose.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a12.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a12.jpg",
+		"name": "Keep it together.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a13.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a13.jpg",
+		"name": "Strong bond.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a14.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a14.jpg",
+		"name": "Macro rose.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a15.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a15.jpg",
+		"name": "Grwth is a process.",
+                "category": "Natrue"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a16.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a16.jpg",
+		"name": "We are family.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a2.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a2.jpg",
+		"name": "Black leafs.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a3.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a3.jpg",
+		"name": "Sepia Rose.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a4.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a4.jpg",
+		"name": "Up close and personal.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a5.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a5.jpg",
+		"name": "Spring time.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a6.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a6.jpg",
+		"name": "Standout.",
+                "category": "Nature".
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a7.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a7.jpg",
+		"name": "We are blooming.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a8.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a8.jpg",
+		"name": "Almost out.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a9.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/a9.jpg",
+		"name": "Pure Art.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/brench.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/brench.jpg",
+		"name": "Tree branch.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/branch%20edited.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/branch%20edited.jpg",
+		"name": "Tree branch Edited.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/rose%20macro.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/rose%20macro.jpg",
+		"name": "Macro Rose.",
+                "category": "Nature"
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/ajemvuma/pronix/master/macro%20rose.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/ajemvuma/pronix/master/macro%20rose.jpg",
+		"name": "BandW macro rose.",
+                "category": "Nature"
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+                      {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	     },
+             {
+		"author": "Nick Nice",
+		"url": "",
+		"thumbUrl": "",
+		"name": "",
+                "category": ""
+	    },
+          
+        ]
+}
